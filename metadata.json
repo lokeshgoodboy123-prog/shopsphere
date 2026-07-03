@@ -1,0 +1,6 @@
+{
+  "name": "ShopSphere",
+  "description": "A premium, fully functional full-stack e-commerce platform with a rich product catalog, persistent shopping cart, secure JWT authentication, direct payment simulation via Razorpay, interactive order tracking, and a comprehensive Admin dashboard with sales analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
